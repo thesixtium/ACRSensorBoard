@@ -18,7 +18,7 @@ This sensor board does not have to be used in XP1 Canis and can be integrated in
 As well, the concepts can be translated into more complex sensor boards easily by expanding the input components.
 
 ## Contact
-[My Website](https://ajrberezowski.wixsite.com/aleksander/)
+[My Website](https://thesixtium.github.io/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
